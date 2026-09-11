@@ -1,3 +1,5 @@
+[![English](https://img.shields.io/badge/English-blue?style=plastic&logo=openbadges&logoColor=white)](README.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-green?style=plastic&logo=openbadges&logoColor=white)](README-pt-BR.md)
+
 <div align="center">
   <a href="https://vitalets.github.io/playwright-bdd">
     <img width="128" alt="playwright-bdd" src="./docs/logo.svg">
